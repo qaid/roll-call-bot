@@ -1,7 +1,7 @@
 {
-  "name": "easy-peasy-bot",
+  "name": "roll-call-bot",
   "version": "1.0.0",
-  "description": "The awesomest bot evar.",
+  "description": "Asking about and compiling personal info of team members",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -9,18 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DEGoodmanWilson/easy-peasy-bot-app.git"
+    "url": "git+https://github.com/qaid/roll-call-bot.git"
   },
   "keywords": [
     "slack",
     "bot"
   ],
-  "author": "D.E. Goodman-Wilson",
+  "author": "BMIT members",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DEGoodmanWilson/easy-peasy-bot-app/issues"
+    "url": "https://github.com/qaid/roll-call-bot/issues"
   },
-  "homepage": "https://github.com/DEGoodmanWilson/easy-peasy-bot-app#readme",
+  "homepage": "https://github.com/qaid/roll-call-bot#readme",
   "engines": {
     "node": "5.1.1"
   },
